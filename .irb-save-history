@@ -1,0 +1,3 @@
+Oystercard.new
+require 'oystercard'
+exit
